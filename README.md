@@ -1,2 +1,2 @@
 # Plant-Health
-Summary pipelines and web scraping
+Summary pipelines and web scraping for reporting purposes.
